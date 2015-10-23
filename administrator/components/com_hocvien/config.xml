@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<fieldset name="component" lable="COM_HOCVIEN_COMPONENT_LABEL" description="COM_HOCVIEN_COMPONENT_DECS"></fieldset>
+<fieldset name ="permissions" lable="JCONFIG_PERMISSIONS_LABLE" description="JCONFIG_PERMISSIONS_DECS">
+<field name="rules" type="rules" component="com_hocvien" filter ="rules" validate="rules" lable="JCONFIG_PERMISSIONS_LABLE" section="component"/>
+</fieldset>
+</config>
